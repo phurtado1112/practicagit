@@ -1,0 +1,11 @@
+{
+    "name": "phdsystems/practicagit",
+    "autoload": {
+        "psr-4": {
+            "practica\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
